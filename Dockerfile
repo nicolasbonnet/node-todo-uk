@@ -14,4 +14,4 @@ RUN npm install
 EXPOSE 8080
 
 #launch the app
-CMD sleep 5 && node server.js
+CMD sleep 15 && node server.js
